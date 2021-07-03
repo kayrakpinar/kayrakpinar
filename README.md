@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Kayra 👋
+
+![Kayra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?v=2&username=pikayrachu&theme=react&hide_progress=true&layout=compact)
+
+![Kayra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayrakpinar&theme=react)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayrakpinar&theme=react&layout=compact)
+
 
 <!--
 **kayrakpinar/kayrakpinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
