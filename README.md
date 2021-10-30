@@ -2,7 +2,7 @@
 [![Tryhackme](https://img.shields.io/badge/Tryhackme-pikayrachu-green.svg)](https://tryhackme.com/p/pikayrachu)<br>
 [![Hackerone](https://img.shields.io/badge/Hackerone-pikayrachu-pink.svg)](https://hackerone.com/pikayrachu)<br>
 
-## :technologist:	Social Media
+## :technologist:	Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-kayrakpinar-red.svg)](mailto:kayrakpinar@gmail.com)<br>
 [![Linkedin](https://img.shields.io/badge/Linkedin-kayrakpinar-darkblue.svg)](https://www.linkedin.com/in/kayrakpinar/)<br>
 [![Twitter](https://img.shields.io/badge/Twitter-kayrakpinar-blue.svg)](https://www.twitter.com/kayrakpinar)<br>
