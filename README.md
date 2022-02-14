@@ -18,7 +18,7 @@
 
 ## :chart_with_upwards_trend: Stats
 
-![Visitor Count](https://profile-counter.glitch.me/kayrakpinar/count.svg)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kayrakpinar.kayrakpinar)
 
 [![Kayra's total wakatime stats](https://wakatime.com/badge/user/18b50fae-2bee-4f29-b945-4783dd4c37ff.svg)](https://wakatime.com/@18b50fae-2bee-4f29-b945-4783dd4c37ff)
 
