@@ -18,6 +18,8 @@
 
 ## :chart_with_upwards_trend: Stats
 
+![Visitor Count](https://profile-counter.glitch.me/kayrakpinar/count.svg)
+
 [![Kayra's total wakatime stats](https://wakatime.com/badge/user/18b50fae-2bee-4f29-b945-4783dd4c37ff.svg)](https://wakatime.com/@18b50fae-2bee-4f29-b945-4783dd4c37ff)
 
 ![Kayra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?v=2&username=pikayrachu&theme=react&layout=compact)
